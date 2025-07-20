@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan</h1>
+<h1 align="center">Hi 👋, I'm PAVAN KUMAR EGALA</h1>
 <h3 align="center">🚀 Full Stack Developer | 🎯 ServiceNow Developer | 🤖 AIML Enthusiast</h3>
 
 <p align="center">
